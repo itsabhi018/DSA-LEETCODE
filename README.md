@@ -14,6 +14,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -35,6 +36,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Simulation
@@ -44,6 +46,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Math
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -67,6 +70,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Game Theory
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -76,6 +80,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Minimax
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
@@ -84,5 +89,14 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
+## Sorting
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
