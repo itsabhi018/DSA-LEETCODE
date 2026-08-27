@@ -13,6 +13,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
@@ -60,6 +61,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -93,6 +95,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -112,6 +115,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
