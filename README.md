@@ -25,6 +25,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Bit Manipulation
 |  |
@@ -61,6 +62,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
