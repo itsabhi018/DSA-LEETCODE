@@ -17,6 +17,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
@@ -38,6 +39,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -130,6 +132,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Counting
 |  |
 | ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
