@@ -19,6 +19,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -111,6 +112,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3903-smallest-stable-index-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
