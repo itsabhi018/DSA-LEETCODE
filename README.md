@@ -17,6 +17,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -43,6 +44,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -129,6 +131,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -150,6 +153,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
@@ -172,4 +176,8 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
