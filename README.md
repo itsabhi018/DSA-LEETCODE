@@ -211,4 +211,8 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
+## Database
+|  |
+| ------- |
+| [3497-analyze-subscription-conversion](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3497-analyze-subscription-conversion) |
 <!---LeetCode Topics End-->
