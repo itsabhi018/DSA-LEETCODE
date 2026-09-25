@@ -73,6 +73,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Math
 |  |
 | ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
@@ -117,6 +118,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0115-distinct-subsequences) |
+| [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
@@ -201,4 +203,12 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
