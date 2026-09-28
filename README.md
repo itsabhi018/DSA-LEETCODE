@@ -111,6 +111,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3798-largest-even-number](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3798-largest-even-number) |
 ## Game Theory
 |  |
 | ------- |
