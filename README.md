@@ -13,6 +13,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0835-image-overlap) |
@@ -77,6 +78,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
@@ -183,6 +185,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
