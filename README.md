@@ -111,6 +111,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0058-length-of-last-word](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0115-distinct-subsequences) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -231,9 +232,11 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Stack
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
