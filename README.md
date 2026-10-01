@@ -15,6 +15,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
@@ -188,6 +189,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
