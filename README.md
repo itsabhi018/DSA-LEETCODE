@@ -111,6 +111,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0115-distinct-subsequences) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -129,6 +130,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0115-distinct-subsequences) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
@@ -236,12 +238,14 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
