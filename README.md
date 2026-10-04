@@ -63,6 +63,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
@@ -114,6 +115,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
@@ -132,6 +134,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -239,6 +242,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -246,6 +250,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0020-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
