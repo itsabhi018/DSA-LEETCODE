@@ -24,6 +24,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -195,6 +196,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
