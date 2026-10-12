@@ -27,6 +27,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2778-sum-of-squares-of-special-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -49,6 +50,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -58,6 +60,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +75,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
