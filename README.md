@@ -41,6 +41,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -79,6 +80,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3282-reach-end-of-array-with-max-score](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Simulation
 |  |
@@ -178,6 +180,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2974-minimum-number-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3424-minimum-cost-to-make-arrays-identical) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
