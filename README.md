@@ -80,6 +80,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3282-reach-end-of-array-with-max-score](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Simulation
@@ -100,6 +101,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3525-find-x-value-of-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
