@@ -29,6 +29,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2974-minimum-number-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -64,6 +65,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -246,6 +248,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 ## Brainteaser
 |  |
@@ -283,4 +286,5 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
