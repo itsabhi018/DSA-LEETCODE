@@ -42,6 +42,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3483-unique-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -226,6 +227,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +250,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0835-image-overlap) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -290,4 +294,8 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
