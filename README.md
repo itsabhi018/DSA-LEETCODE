@@ -48,6 +48,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3727-maximum-alternating-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -58,6 +59,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +163,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Minimax
 |  |
 | ------- |
@@ -251,6 +254,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0835-image-overlap](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0835-image-overlap) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
