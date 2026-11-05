@@ -18,6 +18,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [0283-move-zeroes](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
@@ -121,6 +122,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -189,6 +191,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 ## Sorting
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
@@ -231,6 +234,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0283-move-zeroes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
