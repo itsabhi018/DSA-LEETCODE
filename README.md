@@ -18,6 +18,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [0283-move-zeroes](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0835-image-overlap](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0835-image-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
@@ -104,6 +105,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | ------- |
 | [0189-rotate-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [1227-airplane-seat-assignment-probability](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
+| [1352-product-of-the-last-k-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1686-stone-game-vi](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1686-stone-game-vi) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
@@ -179,6 +181,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3903-smallest-stable-index-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -312,4 +315,12 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
