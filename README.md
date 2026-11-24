@@ -38,6 +38,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3282-reach-end-of-array-with-max-score](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3282-reach-end-of-array-with-max-score) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3424-minimum-cost-to-make-arrays-identical) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -111,6 +112,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [1927-sum-game](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -137,6 +139,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -217,6 +220,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [0209-minimum-size-subarray-sum](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
@@ -229,6 +233,7 @@ The goal is to become consistent and strong in problem solving by solving *at le
 | [2094-finding-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/itsabhi018/DSA-LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
